@@ -35,9 +35,9 @@ let score;
 
 function preload() {
     //Preloading assets
-    this.load.image('ball', '../assets/balls.png')
-    this.load.image('paddle', '../assets/paddle.png')
-    this.load.image('particle', '../assets/particle.png');
+    this.load.image('ball', './assets/balls.png')
+    this.load.image('paddle', './assets/paddle.png')
+    this.load.image('particle', './assets/particle.png');
 }
 
 function create() {
