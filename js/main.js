@@ -35,9 +35,9 @@ let score;
 
 function preload() {
     //Preloading assets
-    this.load.image('ball', './phaser_pong/assets/balls.png')
-    this.load.image('paddle', './phaser_pong/assets/paddle.png')
-    this.load.image('particle', './phaser_pong/assets/particle.png');
+    this.load.image('ball', './assets/balls.png')
+    this.load.image('paddle', './assets/paddle.png')
+    this.load.image('particle', './assets/particle.png');
 }
 
 function create() {
