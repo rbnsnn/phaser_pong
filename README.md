@@ -1,10 +1,5 @@
 # phaser_pong
 
-Pong game in phaser
+https://rbnsnn.github.io/phaser_pong/
 
-## How to start
-
-```bash
-npm install
-npx http-server
-```
+### Left paddle is moving with mouse, right with keyboard arrows.
